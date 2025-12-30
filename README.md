@@ -24,10 +24,9 @@ Only after finalizing the specs, the code was generated using AI.
 
 - Add a new task
 - View all tasks
-- Update a task
-- Delete a task
 - Mark task as complete / incomplete
-- In-memory storage (no database)
+- Delete a task
+- Exit
 
 ---
 
@@ -40,6 +39,25 @@ Only after finalizing the specs, the code was generated using AI.
 
 ## ▶ How to Run
 
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/Hackathon-2.git
+python main.py
+
+---
+
+## Usage  
+
+The application runs in a loop until the user chooses to exit. Follow the on-screen prompts to interact with the application:
+
+Welcome to CLI Todo Application!
+
+========================================
+CLI Todo Application
+========================================
+1. Add Todo
+2. List Todos
+3. Mark Todo as Done
+4. Delete Todo
+5. Exit
+----------------------------------------
+Enter your choice (1-5):
+
+---
