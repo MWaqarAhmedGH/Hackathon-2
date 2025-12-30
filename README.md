@@ -49,9 +49,8 @@ The application runs in a loop until the user chooses to exit. Follow the on-scr
 
 Welcome to CLI Todo Application!
 
-========================================
 CLI Todo Application
-========================================
+
 1. Add Todo
 2. List Todos
 3. Mark Todo as Done
