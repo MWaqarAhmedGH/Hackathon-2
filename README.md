@@ -30,6 +30,12 @@ Only after finalizing the specs, the code was generated using AI.
 
 ---
 
+## 📹 Phase I: YouTube Demo Video Presentation Link (Demo Video)
+
+YouTube Demo Link: https://youtu.be/xxRAGK7j9K8
+
+---
+
 ## 🛠 Requirements
 
 - Python 3.10+
